@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\bin\Debug\net8.0\Assignment33.exe
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\bin\Debug\net8.0\Assignment33.deps.json
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\bin\Debug\net8.0\Assignment33.runtimeconfig.json
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\bin\Debug\net8.0\Assignment33.dll
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\bin\Debug\net8.0\Assignment33.pdb
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.dll
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\refint\Assignment33.dll
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.pdb
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\Assignment33.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Assignment33\Assignment33\obj\Debug\net8.0\ref\Assignment33.dll
